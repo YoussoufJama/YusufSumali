@@ -1,6 +1,5 @@
 ![Background-img](backgrpund-modified.png)
-#YoussoufJama
-## Yūsuf As-Sūmālī  
+##YoussoufJama
 
 Aspiring Network Engineer.  
 
